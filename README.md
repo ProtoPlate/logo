@@ -1,4 +1,4 @@
-logo-design
+Logo Design
 ===========
 
 Logo desings of ProtoPlate
